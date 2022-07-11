@@ -1,4 +1,25 @@
-.Dictionary {
+.Dictionary section {
+  background-color: #a3f7bf;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.Dictionary input {
+  width: 100%;
+  padding: 5px 4px;
+  border: 1px solid #60316e;
+  border-radius: 5px;
+}
+
+.hint {
+  color: #60316e;
+  font-size: 13px;
+}
+
+.cursor-center {
+  text-align: center;
 }
 
 .App-footer {
