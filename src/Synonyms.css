@@ -1,3 +1,10 @@
 ul {
   list-style-type: none;
+  font-style: italic;
+}
+
+li {
+  display: inline;
+  padding-right: 15px;
+  opacity: 0.6;
 }

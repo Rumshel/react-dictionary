@@ -26,3 +26,8 @@
   text-align: center;
   margin: 30px 0;
 }
+
+.Dictionary h1 {
+  font-size: 25px;
+  color: #60316e;
+}

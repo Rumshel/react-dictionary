@@ -2,6 +2,13 @@ body {
   background-color: #29a19c;
 }
 
+header {
+  font-weight: bold;
+  font-size: 28px;
+  color: #60316e;
+  margin-top: 20px;
+}
+
 a {
   color: #60316e;
 }

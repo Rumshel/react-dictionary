@@ -1,0 +1,14 @@
+h3 {
+  font-weight: bold;
+}
+
+.definition {
+  font-size: 18px;
+  color: #60316e;
+}
+
+.example {
+  font-size: 16px;
+  opacity: 0.8;
+  font-style: italic;
+}
